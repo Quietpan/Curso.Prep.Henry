@@ -1,0 +1,28 @@
+Variables
+
+Es una manera, que existe en javascript para almacenar el valor de algo que quieras usar luego.
+La puedes configurar si lo necesitas.
+
+Strings
+
+Se le denomina string al texto que le puedes asignar a la variable. Siempre van entre comillas
+simples o dobles.
+
+Funciones
+
+Argumentos
+
+Son variables que le pasas a la funcion creada, a traves de los parentesis. Esta la puedes utilizar
+dentro de la misma funcion llamandola por el nombre que le pusiste anteriormente.
+
+Return
+
+Es una declaracion que se utiliza para sacar los datos de dentro de la funcion.
+
+Declaraciones if
+
+Es una palabra clave, que se utiliza para mejorar el flujo de los datos dentro de la funcion.
+
+Valores booleanos
+
+Son operadores de comparacion que comparan dos elementos devolviendo verdadero o falso.
