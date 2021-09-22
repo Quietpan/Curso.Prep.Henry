@@ -1,0 +1,24 @@
+for
+
+Es un bucle que se utiliza con 3 declaraciones. La primera es la variable desde la cual comenzara el bucle.
+Segundo, tenemos la condicion en la cual trabajara el bucle y por ultimo tenemos una variable que sera
+la que incrementara a medida que entre una y otra vez en el bucle "for". Saldra una vez que de como resultado
+"false" a la condicion que impusimos en la segunda variable.
+
+&&
+
+Es una expresion que se utiliza para denominar el operador logico "Y". Esto evalua dos expresiones que le demos a la
+funcion y vera si ambas son verdaderas. Si ambas son verdaderas devolvera "true". Si solo una de ellas,o ambas,
+no son iguales, devolvera "false".
+
+||
+
+Es una expresion que se utiliza para denominar el operador logico "O". Esto al igual que el operador logico
+"Y" evalua las expresiones que le pasemos a la funcion, determinando si alguna de es verdadera. Si una
+de ellas es verdadera, no importa cual, devuelve "true". Solo devuelve "false", si ambas expresiones son
+negativas.
+
+!
+
+Es una expresion que se utiliza para denominar el operador logico "No". Devuelve lo contrario de la expresion
+que le pasamos.
