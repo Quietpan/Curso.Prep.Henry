@@ -1,0 +1,4 @@
+Arrays
+
+Arrays, tambien llamadas matrices son contenedores de varios tipos de datos. A los cuales puedes acceder luego
+de una manera mas sencilla desde un mismo lugar.
